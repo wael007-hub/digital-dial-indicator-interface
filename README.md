@@ -136,4 +136,4 @@ Byte1 01 Address code
 Byte2 06 Function code
 Byte<3.4> 08 00 Access register first address
 Byte<5.6> AB 56 Clear Command
-Byte<7.8> 74 A4 CRC Check digit集线器反馈给上位机同接收到的数据
+Byte<7.8> 74 A4 CRC Check digit
